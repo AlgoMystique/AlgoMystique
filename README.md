@@ -33,5 +33,5 @@ Nice to see you here, and welcome to my GitHub profile! <br />My name is <b>Saba
 ## Get in touch!
 I am always open for feedback, collaborations, learning and working opportunities.<br />
 
-<a href="https://linkedin.com/in/sababat" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a><!--
+<a href="https://linkedin.com/in/sababat" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
