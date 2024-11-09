@@ -9,9 +9,10 @@ Nice to see you here, and welcome to my GitHub profile! <br />My name is <b>Saba
 
 
 ## About Me
-🎨  Passionate about generative art in coding. <br />
-🌻  Focus on JavaScript and its related technologies. <br />
-🦋  Attentive to details with a beginner's mindset. Curiosity as the top priority, always! <br />
+
+🎨  Passionate coder <br />
+🚀  Specializing in JavaScript and its ecosystem. <br />
+🦋  Detail-oriented, with curiosity and a beginner's mindset in every project! <br />
 
 ## My Current Tech Stack
 
