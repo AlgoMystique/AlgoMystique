@@ -4,8 +4,6 @@
 
 Nice to see you here, and welcome to my GitHub profile! <br />My name is <b>Sababa</b> and I love coding. <br />
 
-<img src="https://giphy.com/embed/GmbF0GPBUXUXzQCfGC" width="50px" height="50px">
-
 <img src="https://i.giphy.com/media/IDjrgUoFMGyKqy7Rn7/giphy.webp" alt="frog" width="50px">
 
 
