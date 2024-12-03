@@ -3,9 +3,8 @@
 <div align="center">
 
 Nice to see you here, and welcome to my GitHub profile! <br />My name is <b>Sababa</b> and I love coding. <br />
-<iframe src="https://giphy.com/embed/56ua44zQAXVf0mP2GI" width="347" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Felini-merry-xmas-meowy-christmas-feliz-felini-56ua44zQAXVf0mP2GI">via GIPHY</a></p>
 
-<iframe src="https://giphy.com/embed/GmbF0GPBUXUXzQCfGC" width="384" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Felini-crypto-crash-dip-bitcoin-cat-GmbF0GPBUXUXzQCfGC">via GIPHY</a></p>
+<img src="https://giphy.com/embed/GmbF0GPBUXUXzQCfGC" width="50px" height="50px">
 
 <img src="https://i.giphy.com/media/IDjrgUoFMGyKqy7Rn7/giphy.webp" alt="frog" width="50px">
 
