@@ -14,7 +14,7 @@ Nice to see you here, and welcome to my GitHub profile! <br />My name is <b>Saba
 ## About Me
 
 🦋  Passionate, Creative Coder <br />
-🦋  Detail-oriented, with curiosity and Specializing in JavaScript and its ecosystem. br />
+🦋  Detail-oriented, with curiosity and Specializing in JavaScript and its ecosystem. <br />
 
 ## My Current Tech Stack
 
