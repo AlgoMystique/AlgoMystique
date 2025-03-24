@@ -46,7 +46,7 @@ Nice to see you here, and welcome to my GitHub profile! <br />My name is <b>Saba
 ![PayPal](https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff)
 ![Stripe](https://img.shields.io/badge/Stripe-5851DD?logo=stripe&logoColor=fff)
 
-## Get in touch!
+
 I am always open for feedback, collaborations, learning and working opportunities.<br />
 
-<a href="https://linkedin.com/in/sababat" target="_blank">![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)
+## Get in touch! -- > <a href="https://linkedin.com/in/sababat" target="_blank">![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)
