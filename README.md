@@ -27,8 +27,8 @@ Nice to see you here, and welcome to my GitHub profile! <br />My name is <b>Saba
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Node.js-1d1f21?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-1d1f21?style=for-the-badge&logo=express)
-![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)]
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)]
+![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-1d1f21?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-1d1f21?style=for-the-badge&logo=github)
 ![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff)
