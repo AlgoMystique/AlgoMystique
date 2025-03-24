@@ -27,13 +27,13 @@ Nice to see you here, and welcome to my GitHub profile! <br />My name is <b>Saba
 ![Nodejs](https://img.shields.io/badge/-Node.js-1d1f21?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-1d1f21?style=for-the-badge&logo=express)
 ![MySQL](https://img.shields.io/badge/-MySQL-1d1f21?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=563D7C)
+![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=563D7C)
 ![Git](https://img.shields.io/badge/-Git-1d1f21?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-1d1f21?style=for-the-badge&logo=github)
 ![Figma](https://img.shields.io/badge/-Figma-1d1f21?style=for-the-badge&logo=figma)
 ![Canva](https://img.shields.io/badge/-Canva-1d1f21?style=for-the-badge&logo=canva)
-![Vite ](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white)
+![Vite ](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=563D7C)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
 
 
