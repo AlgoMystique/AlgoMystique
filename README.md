@@ -65,7 +65,7 @@ Whether you're here to explore code, collaborate, or just say hello — I'm alwa
 
 📫 Reach out on <a href="https://linkedin.com/in/sababat" target="_blank">![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)
 
-🌐 Checkout my Portfolio here <a href="(https://sababat.dev)" target="_blank">![Portfolio](https://img.shields.io/badge/My-Portfolio-8A2BE2)
+🌐 Checkout my Portfolio here <a href="https://sababat.dev" target="_blank">![Portfolio](https://img.shields.io/badge/My-Portfolio-8A2BE2)
 
 _Thanks for stopping by! Let's build something amazing._ ✨
 
