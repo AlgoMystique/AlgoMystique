@@ -6,15 +6,28 @@ Nice to see you here, and welcome to my GitHub profile! <br />My name is <b>Saba
 
 <img src="https://i.giphy.com/media/IDjrgUoFMGyKqy7Rn7/giphy.webp" alt="frog" width="50px">
 
-
 </div>
 
 
+## 🚀 About Me
 
-## About Me
+I’m a Software Engineer and Final-Year IT Student, building production-ready applications while studying computer science fundamentals.
 
-🦋  Passionate, Creative Coder <br />
-🦋  Detail-oriented, with curiosity and Specializing in JavaScript and its ecosystem. <br />
+💡 **What drives me:**
+- A **collaborative mindset** that values teamwork, knowledge-sharing, and supporting others
+- A **passion for technology** and solving real-world problems with code
+- An **"Always Day 1" attitude**, I bring an "Always Day 1" mindset to every project I work on—approaching each challenge with curiosity, humility, and a constant drive to learn, innovate, and deliver meaningful results.
+- **Strong communication skills** that help bridge ideas, align teams, and turn vision into reality
+- A relentless **drive for excellence and results** in every project I take on
+
+## 🌱 Currently Learning
+
+- **Data Structures & Algorithms** 
+- Advanced front-end & back-end development  
+
+## 🧠 Always Building
+
+I'm currently working on projects that combine AI, web development, and clean UI/UX. I believe in building products that are beautiful, functional, and user-centered.
 
 ## My Current Tech Stack
 
@@ -46,7 +59,13 @@ Nice to see you here, and welcome to my GitHub profile! <br />My name is <b>Saba
 ![PayPal](https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff)
 ![Stripe](https://img.shields.io/badge/Stripe-5851DD?logo=stripe&logoColor=fff)
 
+## 📬 Let's Connect
 
-I am always open for feedback, collaborations, learning and working opportunities.<br />
+Whether you're here to explore code, collaborate, or just say hello — I'm always open to connecting and learning from others in tech.
 
-## Get in touch! -- > <a href="https://linkedin.com/in/sababat" target="_blank">![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)
+📫 Reach out on [LinkedIn]<a href="https://linkedin.com/in/sababat" target="_blank">![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)
+🌐 Portfolio [Portfolio](https://sababat.dev)
+
+
+_Thanks for stopping by! Let's build something amazing._ ✨
+
