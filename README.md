@@ -16,7 +16,7 @@ I’m a Software Engineer and Final-Year IT Student, building production-ready a
 💡 **What drives me:**
 - A **collaborative mindset** that values teamwork, knowledge-sharing, and supporting others
 - A **passion for technology** and solving real-world problems with code
-- An **"Always Day 1" attitude**, I bring an "Always Day 1" mindset to every project I work on—approaching each challenge with curiosity, humility, and a constant drive to learn, innovate, and deliver meaningful results.
+-  I bring an **"Always Day 1" attitude**to every project I work on, approaching each challenge with curiosity, humility, and a constant drive to learn, innovate, and deliver meaningful results.
 - **Strong communication skills** that help bridge ideas, align teams, and turn vision into reality
 - A relentless **drive for excellence and results** in every project I take on
 
