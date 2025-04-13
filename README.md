@@ -23,8 +23,9 @@ I’m a Software Engineer and Final-Year IT Student, building production-ready a
 ## 🌱 Currently Learning
 
 - **Data Structures & Algorithms** 
-- Advanced front-end & back-end development  
-
+- Advanced Front-End & Back-End Development
+- Specializing in Front-End Software Engineering (React, JavaScript, TypeScript)
+  
 ## 🧠 Always Building
 
 I'm currently working on projects that combine AI, web development, and clean UI/UX. I believe in building products that are beautiful, functional, and user-centered.
