@@ -11,7 +11,7 @@ Nice to see you here, and welcome to my GitHub profile! <br />My name is <b>Saba
 
 ## 🚀 About Me
 
-I’m a Software Engineer and Final-Year IT Student, building production-ready applications while studying computer science fundamentals.
+I’m a Software Engineer and Final-semester IT Student, building production-ready applications while studying computer science fundamentals.
 
 💡 **What drives me:**
 - A **collaborative mindset** that values teamwork, knowledge-sharing, and supporting others
