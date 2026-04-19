@@ -15,21 +15,21 @@ I am a Software Engineer and Master of ICT Research Candidate focused on achievi
 
 💡 **What drives me:**
 
--"Always Day 1" Mindset: I approach every complex algorithm and research challenge with humility, curiosity, and a relentless drive for results.
+-**Always Day 1" Mindset:** I approach every complex algorithm and research challenge with humility, curiosity, and a relentless drive for results.
 
--Innovation through Research: I leverage my ICT research to architect smarter, more efficient systems that solve high-stakes problems.
+-**Innovation through Research:** leverage my ICT research to architect smarter, more efficient systems that solve high-stakes problems.
 
--Candid & Clear: I value straightforward communication and collaborative teamwork to turn a visionary idea into a functional product.
+-**Candid & Clear:** I value straightforward communication and collaborative teamwork to turn a visionary idea into a functional product.
 
--Technical Rigor: I am a constant learner, currently deep-diving into Data Structures & Algorithms (LeetCode) to ensure my code is optimized for global scale.
+-**Technical Rigor:** I am a constant learner, currently deep-diving into Data Structures & Algorithms (LeetCode) to ensure my code is optimized for global scale.
 
 ## 🌱 Currently Learning
 
--Advanced Frontend Engineering: Specialized in React, TypeScript, and JavaScript.
+-**Advanced Frontend Engineering:** Specialized in React, TypeScript, and JavaScript.
 
--AI & Data Innovation: Researching AI applications that provide intuitive, user-centered solutions in healthcare.
+-**AI & Data Innovation:** Researching AI applications that provide intuitive, user-centered solutions in healthcare.
 
--Scalable Architectures: Ensuring research findings can be translated into robust, production-ready code.
+-**Scalable Architectures:** Ensuring research findings can be translated into robust, production-ready code.
 
 ## 🧠 Always Building
 
