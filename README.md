@@ -11,24 +11,23 @@ Nice to see you here, and welcome to my GitHub profile! <br />My name is <b>Saba
 
 ## 🚀 About Me
 
-I’m a Software Engineer and Final-semester IT Student, building production-ready applications while studying computer science fundamentals.
+I am a Software Engineer and Master of ICT Research Candidate focused on achieving academic excellence to drive real-world innovation. I specialize in building production-ready applications, with a specific mission to develop revolutionary HealthTech using Artificial Intelligence.
 
 💡 **What drives me:**
-- A **collaborative mindset** that values teamwork, knowledge-sharing, and supporting others
-- A **passion for technology** and solving real-world problems with code
--  I bring an **"Always Day 1" attitude** to every project I work on, approaching each challenge with curiosity, humility, and a constant drive to learn, innovate, and deliver meaningful results.
-- **Strong communication skills** that help bridge ideas, align teams, and turn vision into reality
-- A relentless **drive for excellence and results** in every project I take on
+-"Always Day 1" Mindset: I approach every complex algorithm and research challenge with humility, curiosity, and a relentless drive for results.
+-Innovation through Research: I leverage my ICT research to architect smarter, more efficient systems that solve high-stakes problems.
+-Candid & Clear: I value straightforward communication and collaborative teamwork to turn a visionary idea into a functional product.
+-Technical Rigor: I am a constant learner, currently deep-diving into Data Structures & Algorithms (LeetCode) to ensure my code is optimized for global scale.
 
 ## 🌱 Currently Learning
 
-- **Data Structures & Algorithms** 
-- Advanced Front-End & Back-End Development
-- Specializing in Front-End Software Engineering (React, JavaScript, TypeScript)
-  
+-Advanced Frontend Engineering: Specialized in React, TypeScript, and JavaScript.
+-AI & Data Innovation: Researching AI applications that provide intuitive, user-centered solutions in healthcare.
+-Scalable Architectures: Ensuring research findings can be translated into robust, production-ready code.
+
 ## 🧠 Always Building
 
-I'm currently working on projects that combine AI, web development, and clean UI/UX. I believe in building products that are beautiful, functional, and user-centered.
+I’m currently architecting projects that merge ICT research with clean UI/UX. I believe in building software that is technically sophisticated, research-backed, and centered entirely around the user experience.
 
 ## My Current Tech Stack
 
