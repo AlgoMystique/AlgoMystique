@@ -15,7 +15,7 @@ I am a Software Engineer and Master of ICT Research Candidate focused on achievi
 
 💡 **What drives me:**
 
--**Always Day 1" Mindset:** I approach every complex algorithm and research challenge with humility, curiosity, and a relentless drive for results.
+-**"Always Day 1" Mindset:** I approach every complex algorithm and research challenge with humility, curiosity, and a relentless drive for results.
 
 -**Innovation through Research:** leverage my ICT research to architect smarter, more efficient systems that solve high-stakes problems.
 
