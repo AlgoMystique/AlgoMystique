@@ -21,7 +21,7 @@ I am a Software Engineer and Master of ICT Research Candidate focused on achievi
 
 -**Candid & Clear:** I value straightforward communication and collaborative teamwork to turn a visionary idea into a functional product.
 
--**Technical Rigor:** I am a constant learner, currently deep-diving into Data Structures & Algorithms (LeetCode) to ensure my code is optimized for global scale.
+-**Technical Rigor:** I am a constant learner, currently deep-diving into Data Structures & Algorithms to ensure my code is optimized for global scale.
 
 ## 🌱 Currently Learning
 
